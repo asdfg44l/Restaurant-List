@@ -10,5 +10,21 @@
 
 1.開啟 Terminal 將專案存放至本機位置
 ```
-git clone 
+git clone https://github.com/asdfg44l/Restaurant-List.git
 ```
+
+2.初始
+```
+npm install //安裝套件
+```
+
+3.開啟程式
+```
+npm run start //執行程式
+npm run dev //執行程式(nodemom)
+```
+
+##使用工具
+- [Visual Studio Code](https://visualstudio.microsoft.com/zh-hant/) - 開發環境
+- [Express](https://www.npmjs.com/package/express) - 應用程式架構
+- [Express-Handlebars](https://www.npmjs.com/package/express-handlebars) - 模板引擎
